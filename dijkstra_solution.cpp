@@ -1,6 +1,6 @@
 // Problem: Single Source Shortest Path using Dijkstra's Algorithm
 // Platform: Custom / Compatible with Leetcode-style input
-// Author: [Your Name or GitHub Handle] 🚀
+// Author: [Ridham Garg or irythmgarg] 🚀
 
 class Solution {
 public:
