@@ -1,5 +1,6 @@
 # Dijkstra-Algorithm
 # 🚦 Dijkstra's Algorithm - Single Source Shortest Path
+[Problem Link](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
 
 This repository contains an efficient implementation of **Dijkstra’s Algorithm** for finding the shortest paths from a given source node to all other nodes in a **weighted undirected graph**.
 
